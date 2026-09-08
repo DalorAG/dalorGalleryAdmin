@@ -1,0 +1,4 @@
+
+# Die SQLite-Datei darf hier NIE liegen: Strapi Cloud deployt aus diesem Repo
+# und eine mitgelieferte data.db ueberschreibt beim Deploy die Live-Datenbank.
+.tmp/
